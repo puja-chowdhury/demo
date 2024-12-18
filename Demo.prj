@@ -1,13 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Project>
    <description></description>
-   <name>shopping-cart-tests</name>
+   <name>Demo</name>
    <tag></tag>
-   <UUID>fd02437f-1a58-4376-9af4-d00ae4c10f39</UUID>
-   <freeLicense>false</freeLicense>
+   <UUID>f9daeb0d-0a8f-4cea-8723-2b6aee0b0e39</UUID>
+   <createdEdition>FREE</createdEdition>
+   <createdVersion>9.7.2</createdVersion>
+   <freeLicense>true</freeLicense>
    <migratedVersion>5.9.0</migratedVersion>
+   <modifiedEdition>FREE</modifiedEdition>
+   <modifiedVersion>9.7.2</modifiedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
-   <projectFileLocation>C:\Users\PujaChowdhury\Katalon Studio\Demo\shopping-cart-tests.prj</projectFileLocation>
+   <projectFileLocation>C:\Users\PujaChowdhury\Katalon Studio\Demo\Demo.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>
@@ -26,6 +30,6 @@
          </systemFolderConfiguration>
       </systemFolderList>
    </sourceContent>
-   <timeStampInProperties>true</timeStampInProperties>
+   <timeStampInProperties>false</timeStampInProperties>
    <type>WEBUI</type>
 </Project>
